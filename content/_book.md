@@ -1,36 +1,34 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Milenci na jednu noc
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Ivan Klíma
+  publisher: Městská knihovna v Praze
+  modified: '2020-04-30T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - milenci_na_jednu_noc_001.html
+  - milenci_na_jednu_noc_002.html
+  - milenci_na_jednu_noc_003.html
+  - milenci_na_jednu_noc_004.html
+  - milenci_na_jednu_noc_005.html
+  - milenci_na_jednu_noc_006.html
+  - milenci_na_jednu_noc_007.html
+  - milenci_na_jednu_noc_008.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
