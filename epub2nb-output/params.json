@@ -1,0 +1,254 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Milenci na jednu noc",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ivan Klíma",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2020-04-30T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "milenci_na_jednu_noc_001.md",
+            "xhtml": "milenci_na_jednu_noc_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenci_na_jednu_noc_002.md",
+            "xhtml": "milenci_na_jednu_noc_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenci_na_jednu_noc_003.md",
+            "xhtml": "milenci_na_jednu_noc_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenci_na_jednu_noc_004.md",
+            "xhtml": "milenci_na_jednu_noc_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenci_na_jednu_noc_005.md",
+            "xhtml": "milenci_na_jednu_noc_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenci_na_jednu_noc_006.md",
+            "xhtml": "milenci_na_jednu_noc_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenci_na_jednu_noc_007.md",
+            "xhtml": "milenci_na_jednu_noc_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "milenci_na_jednu_noc_008.md",
+            "xhtml": "milenci_na_jednu_noc_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Milenci na jednu noc",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ivan Klíma",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2020-04-30T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "milenci_na_jednu_noc_001.md",
+        "xhtml": "milenci_na_jednu_noc_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "milenci_na_jednu_noc_002.md",
+        "xhtml": "milenci_na_jednu_noc_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "milenci_na_jednu_noc_003.md",
+        "xhtml": "milenci_na_jednu_noc_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "milenci_na_jednu_noc_004.md",
+        "xhtml": "milenci_na_jednu_noc_004.xhtml"
+      },
+      {
+        "titleSuggest": "Lingula",
+        "subtitleSuggest": "",
+        "filename": "milenci_na_jednu_noc_005.md",
+        "xhtml": "milenci_na_jednu_noc_005.xhtml"
+      },
+      {
+        "titleSuggest": "Pás",
+        "subtitleSuggest": "",
+        "filename": "milenci_na_jednu_noc_006.md",
+        "xhtml": "milenci_na_jednu_noc_006.xhtml"
+      },
+      {
+        "titleSuggest": "Poprava koně",
+        "subtitleSuggest": "",
+        "filename": "milenci_na_jednu_noc_007.md",
+        "xhtml": "milenci_na_jednu_noc_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "milenci_na_jednu_noc_008.md",
+        "xhtml": "milenci_na_jednu_noc_008.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/milenci_na_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_milenci_na_jednu_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis-podpis",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text--I",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-text-uprostred",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-uroven2-kapitola",
+      "MLP-uroven3-nadpis",
+      "MLP-verse--12-12",
+      "MLP-verse--I---12-12",
+      "MLP-znak-kurziva-11b",
+      "Normal",
+      "char-style-override-1",
+      "char-style-override-2",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3",
+      "para-style-override-4",
+      "para-style-override-5",
+      "para-style-override-6",
+      "para-style-override-7",
+      "para-style-override-8"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "klima-milenci-na-jednu-noc"
+    },
+    "generatedAt": 1652420541004
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Milenci na jednu noc",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Ivan Klíma",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2020-04-30T00:00:00.000Z",
+    "published": "2020-04-30T00:00:00.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenci_na_jednu_noc_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenci_na_jednu_noc_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenci_na_jednu_noc_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenci_na_jednu_noc_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenci_na_jednu_noc_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenci_na_jednu_noc_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenci_na_jednu_noc_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/milenci_na_jednu_noc_008.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/milenci_na_idstyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image001_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/obalka_milenci_na_jednu_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Lingula",
+      "children": [
+        {
+          "title": "1",
+          "href": "OEBPS/Text/milenci_na_jednu_noc_005.xhtml#toc_marker-1-1"
+        },
+        {
+          "title": "2",
+          "href": "OEBPS/Text/milenci_na_jednu_noc_005.xhtml#toc_marker-1-2"
+        },
+        {
+          "title": "3",
+          "href": "OEBPS/Text/milenci_na_jednu_noc_005.xhtml#toc_marker-1-3"
+        }
+      ],
+      "href": "OEBPS/Text/milenci_na_jednu_noc_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "Pás",
+      "children": [
+        {
+          "title": "1",
+          "href": "OEBPS/Text/milenci_na_jednu_noc_006.xhtml#toc_marker-2-1"
+        },
+        {
+          "title": "2",
+          "href": "OEBPS/Text/milenci_na_jednu_noc_006.xhtml#toc_marker-2-2"
+        }
+      ],
+      "href": "OEBPS/Text/milenci_na_jednu_noc_006.xhtml#toc_marker-2"
+    },
+    {
+      "title": "Poprava koně",
+      "children": [
+        {
+          "title": "1",
+          "href": "OEBPS/Text/milenci_na_jednu_noc_007.xhtml#toc_marker-3-1"
+        },
+        {
+          "title": "2",
+          "href": "OEBPS/Text/milenci_na_jednu_noc_007.xhtml#toc_marker-3-2"
+        },
+        {
+          "title": "3",
+          "href": "OEBPS/Text/milenci_na_jednu_noc_007.xhtml#toc_marker-3-3"
+        },
+        {
+          "title": "4",
+          "href": "OEBPS/Text/milenci_na_jednu_noc_007.xhtml#toc_marker-3-4"
+        }
+      ],
+      "href": "OEBPS/Text/milenci_na_jednu_noc_007.xhtml#toc_marker-3"
+    }
+  ]
+}
