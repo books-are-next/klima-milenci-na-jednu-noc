@@ -3,16 +3,12 @@ title: Lingula
 contentType: prose
 ---
 
-1
-
-  
+## 1
 
 Menza byla dlouhá a bezútěšná, hluboko v podzemí, a její stěny, kromě zadní skleněné, měly jen slepé výklenky místo oken. Menzovní výbor se sice snažil zastřít jejich pustotu ručně malovaným desaterem:
 
 _NEPOLIJEŠ! NEZANECHÁŠ NÁDOBÍ  
 ŠPINAVÉHO! NEZAKOUŘÍŠ!…_
-
-  
 
 ale sál tím příliš nezvlídněl a Tomáš i s kamarády nosili své obědy až ke skleněné stěně. Bylo tu více vzduchu, víc světla a stolek pod posledním článkem desatera měl jednu nohu kratší, nikdo u něho nesedal a hodil se proto výborně k odkládání kabátů, aktovek a talířů od polévky.
 
@@ -341,9 +337,7 @@ Uviděl staropanenskou tvář, udivený pohled za brýlemi s tmavou obroučkou.
 
 Podala mu dva tvrdé kartónky. „Pospěšte si! Za čtyři minuty vám jede váš vlak,“ řekla.
 
-2
-
-  
+## 2
 
 Vůz se měkce pohupoval, za oknem plynula noc se skleněnými světly, v kupé seděli čtyři dělníci, tři hráli karty, čtvrtý seděl proti ní, pozoroval ji mlčky a kouřil.
 
@@ -555,9 +549,7 @@ Už nezpíval, na okamžik se poděsila, ale ticho teď bylo přívětivé a p�
 
 Ovládla ji nesmyslná opilá touha po smíchu, zadržela dech, potom ucítila na tváři slzy. Já jsem šťastná, uvědomila si s úžasem.
 
-3
-
-  
+## 3
 
 Byla to velmi pitomá písnička, skládali ji po večerech v koleji, když se cítili už docela otupeni. Měla třicet slok, zazpívám jí nejvýš dvě, aby viděla, jak střelila vedle s těmi básničkami, pak ji políbím. Ale potom zpíval stále dál a díval se přitom na její tvář: nehybnou a velice krásnou. Byla krásná, mohl se naklonit a políbit ji, ale byla také příliš nedostupná a cizí, a on to tedy neučinil.
 
@@ -733,4 +725,4 @@ Na velkých pouličních hodinách bylo půl sedmé ráno, o půl deváté měl
 
 Lingulo, řekl jí v duchu. Lingula, odříkával si tiše, třída Brachiopoda, skořápky se otevírají nebo zavírají v přední volné části plášťových okrajů, jsou do nich zapuštěny štětiny. Jako celá tato skupina červů, má i Lingula blízké vztahy k řádu Phoronis…
 
-/1962/
+> /1962/
