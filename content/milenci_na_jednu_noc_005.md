@@ -7,14 +7,22 @@ contentType: prose
 
 Menza byla dlouhá a bezútěšná, hluboko v podzemí, a její stěny, kromě zadní skleněné, měly jen slepé výklenky místo oken. Menzovní výbor se sice snažil zastřít jejich pustotu ručně malovaným desaterem:
 
+  
+
 _NEPOLIJEŠ! NEZANECHÁŠ NÁDOBÍ  
 ŠPINAVÉHO! NEZAKOUŘÍŠ!…_
+
+  
 
 ale sál tím příliš nezvlídněl a Tomáš i s kamarády nosili své obědy až ke skleněné stěně. Bylo tu více vzduchu, víc světla a stolek pod posledním článkem desatera měl jednu nohu kratší, nikdo u něho nesedal a hodil se proto výborně k odkládání kabátů, aktovek a talířů od polévky.
 
 Zvykli si na toto místo, poslední stolek v druhé řadě, vystřihli z papíru velkého štíra, na něj napsali:
 
+  
+
 _BIOLOGIE – REZERVOVÁNO!_
+
+  
 
 Hned za skleněnou stěnou ležela malá zahrádka, dva keře modrého bezu, nízký akát, bílá magnólie a zlatý déšť, hnízdili tu kosi a párek hrdliček. Nevšímali si toho příliš, jenom ptákům v zimě házeli zbytky z talířů a jednoho dne skoro s podivem zjistili, že zatímco studovali čeleď Viciaceae, akátu vyrašily první lístky.
 
@@ -22,7 +30,11 @@ Když rozkvetl bez, u stolku s kratší nohou se objevila cizí dívka, skoro 
 
 Po celou dobu, kdy jedla, z ní téměř nespustili pohled a za celou tu dobu na ně ona ani jednou nepohlédla, jako by ani nevěděla, že vedle ní někdo sedí a že nad hlavou jí visí desáté přikázání:
 
+  
+
 _BUD PŘÍVĚTIVÝ K SOUDRUHŮM!_
+
+  
 
 Když dojedla, otřela si ústa kapesníčkem, její pohled tkvěl přitom dokonale v prázdnu; potom vstala, na okamžik se ohlédla, teď si jich musela všimnout, ale nedala nic najevo a odběhla na vysokých tenkých podpatcích krátkými krůčky dokonalé sekretářky.
 
@@ -220,8 +232,12 @@ Napadlo ho něco úplně sebevražedného. „Zrovna tam jsem tě chtěl pozvat.
 
 „Všechno, co budeš chtít!“ Byl tam také jen jednou a zůstala mu matná představa spousty lidí a strašlivé nudy. Největší nuda je orga­nizovaná zábava; DODRŽUJTE SMĚR ZÁBAVY! Ale snad se tam něco najde, něco, od čeho by se dalo začít! Třeba výstava umělých květin. Nebo večer poezie. Miluješ Holuba? Nebo Morgensterna? Tu o tom červu znáš?
 
+  
+
 _Ukrytý do ulity,  
 prazvláštní červ si žil…_
+
+  
 
 Víš, jak se rozmnožuje Eunice viridis? Fuj!
 
