@@ -3,6 +3,8 @@ title: Pás
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Jaké to bylo ráno, tak úplně nevelkoměstské ráno, nebe nad korunami střech, nebe podobné moři, to by se to plulo, a poli, to by se to šlo: pořád rovně, kdyby se tak dalo jít pořád rovně, vůbec nenasedat, vůbec nevystupovat, jen pořád rovně, a slunce by šlo vzhůru a ty taky, nečum už, bože, klusej a nasedej; tramvaj naditá horkem, pach těl, najednou mu změkly nohy, to že se ani nestačil umýt, a ten den před ním – ještě byla naděje, ale jaká, ledaže by spadla hala anebo mor, UZAVŘENO PRO MOR, to bychom se s Láďou sebrali, uzavřeno pro mor, ach bože, třeba s Evou, i když už se vdala, škoda, žes to dělala, sebrali bysme se, uzavřeno pro mor, ještě byla naděje pro ten den, hnal se k bráně, už z dálky uviděl bílou ceduli, písmena splývala, uzavřeno, kéž by uzavřeno, inzerovali jenom celozávodní schůzi, to ho mohlo napadnout, uplivl si; píchačky, ten mechanický hlídač, bezúsměvný hlídač tvého života, otevř tlamu, bestie, šest hodin čtyři minuty, proběhl kolem stráže a šedivým dvorem plným vířivého popílku, vrazil ramenem do vrat, první hala, kolem rachotících lisů, Anča jako vždycky krájí plechy, má už z toho záda jako lískovku, jako luk, měli by ti do země vysekat díru, nemusela by ses tak ohýbat, kdybych já byl inženýrem, jenže kdo by se o tebe staral, ještě jedny vrata, pak už je uviděl v té věčně neměnné řadě, tak jako každého měsíce, jako v každý letní den a v deštivý každý smutný a v zasněžený každý den a v den, kdy on sám by zemřel, kdyby se mohl přijít ještě podívat: na začátku lysina, na konci Eva – přeliv jako kachňátko, vdala se, už se nedá nic… vedle Ládi prázdné místo, tam patřím; pravou rukou velké ozubené a tři malá kolečka, levou dvě osičky, nasadit, nechat zapadnout, zkusit, potom vzít čtyři šrouby, vsunout do otvoru, zavěsit; na jeho místo teď zaskočil mistr; už přestal být mistrem, stal se teď jím, to byl úděl toho místa, každý, kdo se na ně postavil, mohl být farář nebo provazolezec, jednonohý hluchý zápasník – mohl být ráno po pohřbu vlastní mámy anebo přijít prvně od holky, i v ten den musel pravou rukou vzít velké ozubené a tři malá kolečka, levou sáhnout pro osičky. Mistrův pohled lpěl na hodinové ručičce, to mohl i při práci, každý to mohl: dívat se, i myslet, dokonce i myslet, zatímco ukazováček a palec levé ruky zasouval osičku přesně do otvorů v plášti, mistr pootevřel ústa plná šedivě porculánových zubů, bude zase řečí jako v televizi, radši uhni, ach bože, teprve šest deset, vlastně devět, ale to už je skoro jako deset, zatímco se na ně koukám a mistr držkuje, stejně to má… velké ozubené, tři malý; teď skočila, Marie má dneska nějaký svetr, velké ozubené, stejně žvaní nadarmo, jednou přijde a už mě tu neuvidí, na mou duši; ten den bych tu chtěl zrovna být, to blaho, a dívat se na něj, jenže to už pojedu na vlastním koni, čtyři šrouby, vsunout do otvorů… Konečně ho to… a je klid, lanovka se sune tichoučká, sejmout a zavěsit, Mariin šroubovák vrčí, šest hodin šestnáct, na bílé stěně mokvá podivná, bizarní namodralá skvrna. Hnal to po úplně bílé silnici, třešňovou alejí s vlhkými listy, louky se pařily, haló, dva chlapi se zvedli zpod stromu, mávali zběsile.
@@ -139,11 +141,15 @@ Doma spal jenom kocour, táta s mámou měli odpolední, v bytě tkvělo nehyb
 
 Našel ve spíži knedlíky namočené v omáčce, nacpal si jeden do pusy, kus hodil kocourovi, kocour se ani nepohnul, bylo mu horko; bylo horko a potupné mdlé prázdno – v takový den; uchýlil se ke skříni, ze strašlivé změtenice krámů vylovil
 
-  
+</section>
+
+<section>
 
 LODNÍ DENÍK
 
-  
+</section>
+
+<section>
 
 ale vlastně zbytečně, jaký to mělo smysl teď a v takový den, i když se už chýlil ke konci, kdyby jen člověk nebyl tak úplně, tak docela… Ale co? Vlastně je jenom ona, polkl, byla tím dnem, jeho sklonkem, jeho čnící nadějí, telefonní budka pod oknem byla prázdná.
 
@@ -396,3 +402,5 @@ Píchačky, bezúsměvný hlídač tvých dní, šest deset, bude zase řečí, 
 Mistrův pohled lpěl na hodinách, šest patnáct, ah bože, teprve šest patnáct. Uchopil pravou rukou velké ozubené a tři malá kolečka, levou dvě osičky, nasadil, potom vzal čtyři šrouby, vsunul je do otvorů, pustil první skříň k Marii, obrátila se k němu a trochu se usmála, mistra to už přestává bavit, no konečně bude zase klid, lanovka se tiše sune, sejmout a zavěsit, Mariin šroubovák vrčí, slyšel klapání kopyt, hnal to po úplně bílé silnici, třešňovou alejí s vlhkými listy, louky se pařily.
 
 > /1963/
+
+</section>
