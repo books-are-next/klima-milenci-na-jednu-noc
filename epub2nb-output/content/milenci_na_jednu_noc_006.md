@@ -145,7 +145,15 @@ Našel ve spíži knedlíky namočené v omáčce, nacpal si jeden do pusy, kus
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 LODNÍ DENÍK
+
+</div>
+
+</div>
 
 </section>
 
