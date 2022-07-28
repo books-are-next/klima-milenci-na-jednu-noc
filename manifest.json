@@ -1,0 +1,196 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Milenci na jednu noc",
+  "author": "Ivan Klíma",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "klima-milenci-na-jednu-noc-66b49f4",
+  "revision": "66b49f4",
+  "readingOrder": [
+    "promo.html",
+    "milenci_na_jednu_noc_005.html",
+    "milenci_na_jednu_noc_006.html",
+    "milenci_na_jednu_noc_007.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jul 28 2022 13:12:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1659013932351
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "milenci_na_jednu_noc_005.html",
+      "toc": []
+    },
+    {
+      "title": "Lingula",
+      "file": "milenci_na_jednu_noc_005.html",
+      "words": 7270,
+      "chars": 42704,
+      "ideas": 364,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "milenci_na_jednu_noc_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lingula",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pás",
+      "file": "milenci_na_jednu_noc_006.html",
+      "words": 5345,
+      "chars": 30415,
+      "ideas": 196,
+      "role": "chapter",
+      "order": 2,
+      "prev": "milenci_na_jednu_noc_005.html",
+      "next": "milenci_na_jednu_noc_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pás",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Poprava koně",
+      "file": "milenci_na_jednu_noc_007.html",
+      "words": 5356,
+      "chars": 29861,
+      "ideas": 122,
+      "role": "chapter",
+      "order": 3,
+      "prev": "milenci_na_jednu_noc_006.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poprava koně",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 136,
+      "chars": 879,
+      "ideas": 14,
+      "role": "about",
+      "order": null,
+      "prev": "milenci_na_jednu_noc_007.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 18115,
+      "chars": 103900,
+      "ideas": 700
+    },
+    "chapters": {
+      "words": 17971,
+      "chars": 102980,
+      "ideas": 682
+    }
+  }
+}
