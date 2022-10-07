@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "klima-milenci-na-jednu-noc-7f491c1",
-  "revision": "7f491c1",
+  "identifier": "klima-milenci-na-jednu-noc-3efbb23",
+  "revision": "3efbb23",
   "readingOrder": [
     "promo.html",
     "milenci_na_jednu_noc_005.html",
@@ -18,8 +18,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:56:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924202320
+    "date": "Fri Oct 07 2022 13:55:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150931909
   },
   "documents": [
     {
