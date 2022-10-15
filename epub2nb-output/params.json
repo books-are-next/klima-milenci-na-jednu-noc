@@ -9,7 +9,8 @@
       "modified": "2020-04-30T00:00:00.000Z",
       "contentType": "prose",
       "publisherShort": "mkp",
-      "edition": "Beletrie"
+      "edition": "Beletrie",
+      "isbn": "978-80-274-2832-8"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Lingula"
+            "title": "Lingula",
+            "children": []
           },
           {
             "filename": "milenci_na_jednu_noc_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pás"
+            "title": "Pás",
+            "children": []
           },
           {
             "filename": "milenci_na_jednu_noc_007.md",
@@ -122,8 +123,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Poprava koně"
+            "title": "Poprava koně",
+            "children": []
           },
           {
             "filename": "milenci_na_jednu_noc_008.md",
@@ -267,6 +268,6 @@
       "user": "books-are-next",
       "repo": "klima-milenci-na-jednu-noc"
     },
-    "generatedAt": 1665415748396
+    "generatedAt": 1665817263495
   }
 }

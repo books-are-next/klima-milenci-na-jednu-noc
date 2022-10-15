@@ -13,6 +13,7 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: Beletrie
+  isbn: 978-80-274-2832-8
 readingOrder:
   - promo.html
   - milenci_na_jednu_noc_005.html
